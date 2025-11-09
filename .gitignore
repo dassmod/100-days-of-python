@@ -1,0 +1,25 @@
+# PyCharm Educational Plugin
+.idea/
+**/lesson-info.yaml
+**/lesson-remote-info.yaml
+**/course-info.yaml
+**/course-remote-info.yaml
+**/__pycache__/
+**/.pytest_cache/
+**/task.html
+**/task.md
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
